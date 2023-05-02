@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192403341465",
+    "project_id": "last-adcc9",
+    "storage_bucket": "last-adcc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192403341465:android:d3e85e434e17143f993808",
+        "android_client_info": {
+          "package_name": "com.example.mymobile_car_wash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192403341465-6ld8l7e31bgvdn0lafafplr40i7ajl0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUg2SHDR-bjadCqX5j8DTeewYicssjna0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192403341465-6ld8l7e31bgvdn0lafafplr40i7ajl0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
